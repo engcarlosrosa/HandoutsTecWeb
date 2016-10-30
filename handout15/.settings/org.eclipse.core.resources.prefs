@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/formTarefa.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/formulario-login.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/info.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/menu.jsp=UTF-8
+encoding//src/mvc/controller/TarefasController.java=UTF-8
+encoding//src/mvc/model/Tarefa.java=UTF-8
